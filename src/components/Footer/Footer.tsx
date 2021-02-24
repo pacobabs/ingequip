@@ -66,7 +66,7 @@ const Footer = () => {
                 >
                   <svg
                     className="w-5 h-5 mt-1"
-                    xmlns="http://www.w3.org/2000/svg"
+                    xmlns="https://www.w3.org/2000/svg"
                     viewBox="0 0 20 20"
                     fill="currentColor"
                   >
@@ -87,7 +87,7 @@ const Footer = () => {
                 >
                   <svg
                     className="w-3 h-3 mt-2"
-                    xmlns="http://www.w3.org/2000/svg"
+                    xmlns="https://www.w3.org/2000/svg"
                     viewBox="0 0 20 20"
                     fill="currentColor"
                   >
@@ -104,7 +104,7 @@ const Footer = () => {
                 >
                   <svg
                     className="w-4 h-4 mt-2"
-                    xmlns="http://www.w3.org/2000/svg"
+                    xmlns="https://www.w3.org/2000/svg"
                     viewBox="0 0 20 20"
                     fill="currentColor"
                   >

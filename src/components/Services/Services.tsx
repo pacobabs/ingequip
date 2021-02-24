@@ -61,7 +61,7 @@ const Services = () => {
               <img
                 className="object-cover object-center mr-4 rounded"
                 alt="hero"
-                src="http://demo.themewinter.com/html/cornike/construction/images/icon-image/service-icon6.png"
+                src="https://demo.themewinter.com/html/cornike/construction/images/icon-image/service-icon6.png"
               />
               <div className="flex-grow">
                 <h2 className="text-lg font-medium text-gray-900">Health & Safety Management</h2>

@@ -7,7 +7,7 @@ const Testimonials = () => {
           <div className="w-full p-4 md:w-1/2">
             <div className="h-full p-8 bg-gray-100 rounded">
               <svg
-                xmlns="http://www.w3.org/2000/svg"
+                xmlns="https://www.w3.org/2000/svg"
                 fill="currentColor"
                 className="block w-5 h-5 mb-4 text-yellow-400"
                 viewBox="0 0 975.036 975.036"
@@ -34,7 +34,7 @@ const Testimonials = () => {
           <div className="w-full p-4 md:w-1/2">
             <div className="h-full p-8 rounded bg-yellow-50">
               <svg
-                xmlns="http://www.w3.org/2000/svg"
+                xmlns="https://www.w3.org/2000/svg"
                 fill="currentColor"
                 className="block w-5 h-5 mb-4 text-yellow-400"
                 viewBox="0 0 975.036 975.036"
