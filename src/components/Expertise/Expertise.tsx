@@ -4,6 +4,7 @@ const Expertise = () => {
       <div className="container flex flex-col-reverse items-center px-4 py-8 mx-auto md:flex-row-reverse">
         <div className="w-5/6 mb-10 lg:max-w-lg lg:w-full md:w-1/2 md:mb-0">
           <img
+            loading="lazy"
             className="object-cover object-center rounded"
             alt="hero"
             src="https://ld-wt73.template-help.com/wt_62269/images/home-1-652x491.jpg"

@@ -12,6 +12,7 @@ const Work = () => {
             <div className="flex flex-col h-full p-4 bg-gray-100 rounded-lg">
               <div className="flex flex-col items-center">
                 <img
+                  loading="lazy"
                   className="object-cover object-center rounded"
                   alt="hero"
                   src="https://demo.themewinter.com/html/cornike/construction/images/projects/project7.jpg"
@@ -30,6 +31,7 @@ const Work = () => {
             <div className="flex flex-col h-full p-4 bg-gray-100 rounded-lg">
               <div className="flex flex-col items-center">
                 <img
+                  loading="lazy"
                   className="object-cover object-center rounded"
                   alt="hero"
                   src="https://demo.themewinter.com/html/cornike/construction/images/projects/project1.jpg"
@@ -48,6 +50,7 @@ const Work = () => {
             <div className="flex flex-col h-full p-4 bg-gray-100 rounded-lg">
               <div className="flex flex-col items-center">
                 <img
+                  loading="lazy"
                   className="object-cover object-center rounded"
                   alt="hero"
                   src="https://demo.themewinter.com/html/cornike/construction/images/projects/project9.jpg"

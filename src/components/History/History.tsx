@@ -4,6 +4,7 @@ const History = () => {
       <div className="container flex flex-col items-center px-4 py-8 mx-auto md:flex-row">
         <div className="w-5/6 mb-10 lg:max-w-lg lg:w-full md:w-1/2 md:mb-0">
           <img
+            loading="lazy"
             className="object-cover object-center rounded"
             alt="hero"
             src="https://preview.colorlib.com/theme/wilcon/images/about-3.jpg"

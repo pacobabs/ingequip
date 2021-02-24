@@ -20,6 +20,7 @@ const Testimonials = () => {
               </p>
               <a className="inline-flex items-center">
                 <img
+                  loading="lazy"
                   alt="testimonial"
                   src="https://dummyimage.com/106x106"
                   className="flex-shrink-0 object-cover object-center w-12 h-12 rounded-full"
@@ -47,6 +48,7 @@ const Testimonials = () => {
               </p>
               <a className="inline-flex items-center">
                 <img
+                  loading="lazy"
                   alt="testimonial"
                   src="https://dummyimage.com/107x107"
                   className="flex-shrink-0 object-cover object-center w-12 h-12 rounded-full"

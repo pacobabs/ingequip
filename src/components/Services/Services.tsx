@@ -13,6 +13,7 @@ const Services = () => {
           <div className="flex flex-col flex-grow">
             <div className="flex items-center p-4 ">
               <img
+                loading="lazy"
                 className="object-cover object-center mr-4 rounded"
                 alt="hero"
                 src="https://demo.themewinter.com/html/cornike/construction/images/icon-image/service-icon1.png"
@@ -26,6 +27,7 @@ const Services = () => {
             </div>
             <div className="flex items-center p-4 ">
               <img
+                loading="lazy"
                 className="object-cover object-center mr-4 rounded"
                 alt="hero"
                 src="https://demo.themewinter.com/html/cornike/construction/images/icon-image/service-icon4.png"
@@ -39,6 +41,7 @@ const Services = () => {
             </div>
             <div className="flex items-center p-4 ">
               <img
+                loading="lazy"
                 className="object-cover object-center mr-4 rounded"
                 alt="hero"
                 src="https://demo.themewinter.com/html/cornike/construction/images/icon-image/service-icon5.png"
@@ -52,6 +55,7 @@ const Services = () => {
             </div>
           </div>
           <img
+            loading="lazy"
             className="object-contain object-center w-64 p-8 rounded"
             alt="hero"
             src="https://demo.themewinter.com/html/cornike/construction/images/services/service-center.png"
@@ -59,6 +63,7 @@ const Services = () => {
           <div className="flex flex-col flex-grow">
             <div className="flex items-center p-4 ">
               <img
+                loading="lazy"
                 className="object-cover object-center mr-4 rounded"
                 alt="hero"
                 src="https://demo.themewinter.com/html/cornike/construction/images/icon-image/service-icon6.png"
@@ -72,6 +77,7 @@ const Services = () => {
             </div>
             <div className="flex items-center p-4 ">
               <img
+                loading="lazy"
                 className="object-cover object-center mr-4 rounded"
                 alt="hero"
                 src="https://demo.themewinter.com/html/cornike/construction/images/icon-image/service-icon3.png"
@@ -85,6 +91,7 @@ const Services = () => {
             </div>
             <div className="flex items-center p-4 ">
               <img
+                loading="lazy"
                 className="object-cover object-center mr-4 rounded"
                 alt="hero"
                 src="https://demo.themewinter.com/html/cornike/construction/images/icon-image/service-icon2.png"
